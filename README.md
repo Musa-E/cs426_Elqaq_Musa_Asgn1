@@ -1,0 +1,2 @@
+# cs426_Elqaq_Musa_Asgn1
+a simple Ball Throwing-like game using Unity3D, while following loosely the Living in the City theme (you could use 3D objects to represent some characteristic elements of your city or neighborhood, change the projectiles to local fruits, and so on, anything that strikes your fancy). In general, go for pastel colors, not saturated primary colors. 
