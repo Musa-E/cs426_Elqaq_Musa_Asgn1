@@ -50,3 +50,8 @@ Due to file size constraints, the file called `sharedassets0.assets.resS` was no
 ## Known Issues:
 
 When the window is not maximized, the reticle used to help aim shots is offset.  I tried fixing it, but it didn't work.  This will likely not be fixed given this is due soon.
+
+## Other Students' Demo Reviews:
+I reviewed the following student's demo videos:
+> - Elson Allmuca
+> - Eddie Federmeyer
