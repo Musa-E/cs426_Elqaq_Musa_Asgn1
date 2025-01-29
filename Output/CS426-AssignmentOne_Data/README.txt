@@ -1,0 +1,1 @@
+Due to file size constraints, the file called `sharedassets0.assets.resS` was not included in this git repository.  This file should be located in this directory: `Output/CS426-AssignmentOne_Data/`.  You can find the file located in the same directory as the above demo, https://drive.google.com/file/d/1UPjEs1iO3AN7NxI-gqWjIr-etIny7dyc/view?usp=sharing .

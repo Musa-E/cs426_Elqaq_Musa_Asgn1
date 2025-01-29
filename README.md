@@ -32,6 +32,7 @@ The assets used in this project mainly consist of the following two free package
 > - [Demo City by Versatile Studios](https://assetstore.unity.com/packages/3d/environments/urban/demo-city-by-versatile-studio-mobile-friendly-269772)
 > - [Low Poly Street Pack](https://assetstore.unity.com/packages/3d/environments/urban/low-poly-street-pack-67475)
 > - *(There was also minimal usage of the terrain tools (+ [sample asset](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808)) package (by Unity) for the grass texture).*
+> - I made some assets and materials, but nothing too crazy
 
 Any code used was either from the code provided to our class, or made by me using things like online tutorials and forums.
 
@@ -40,3 +41,8 @@ Any code used was either from the code provided to our class, or made by me usin
 ## Demo:
 
 The following is a link to a small demo of the scene:
+
+
+## Known Issues:
+
+When the window is not maximized, the reticle used to help aim shots is offset.  I tried fixing it, but it didn't work.  This will likely not be fixed given this is due soon.
